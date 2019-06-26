@@ -1,1 +1,1 @@
-media/gitconfig.png
+![alt text](media/gitconfig.png)
